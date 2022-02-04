@@ -1,0 +1,1 @@
+# book slot init file
